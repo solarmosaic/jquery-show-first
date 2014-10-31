@@ -1,0 +1,26 @@
+{
+    "name": "jquery-show-first",
+    "main": "jquery-show-first.js",
+    "homepage": "https://github.com/solarmosaic/jquery-show-first",
+    "description": "Show First N Items jQuery Plugin: show the first N items in a group and hide the rest, with an option to control",
+    "keywords": [
+        "show",
+        "first",
+        "n",
+        "items",
+        "group",
+        "some",
+        "hide",
+        "rest",
+        "jquery",
+        "plugin"
+    ],
+    "license": "Unlicense",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
